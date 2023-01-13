@@ -1,4 +1,4 @@
-# jobform.github.io
+# Job Application Page
 A clean job application form in plain html and css.
 Please [Click here](https://shloksuman.github.io/jobform.github.io/) to jump to the deployment!
 
